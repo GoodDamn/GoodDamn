@@ -37,6 +37,31 @@ I'm currenty mobile developer on both popular platforms
   * Swift Package Manager
   * FileManager (use it frequently instead of SQLite or CoreData)
 
+## 🛠 Pet projects
+
+### [Android Server](https://github.com/GoodDamn/SocketServer)
+
+* Kotlin + Sockets + Android SDK
+
+Simple server working on Android OS.
+Now I'm implementing HTTP-Server for responsing to reqeusts with HTTP
+
+### [TraceView](https://github.com/GoodDamn/TraceView)
+
+* Canvas + Java + Android SDK
+
+For Android, I use it for advanced user interaction.
+If you draw it, you complete it
+
+It's an extension for my ScriptEngine, but it's under a policy, sorry(
+
+### [Microphone Breathing](https://github.com/GoodDamn/MicroBreath)
+(Warning: you can damage your microphone, try it on your own risk)
+
+* Canvas + Kotlin + Coroutines + Android SDK + Multithreading
+
+It's a part of advanced UX/UI for user interaction
+For example, for some breathing exercises
 
 ## 📊 Profile statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodDamn&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
