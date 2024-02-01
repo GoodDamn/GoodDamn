@@ -20,7 +20,7 @@ I'm currenty mobile developer on both popular platforms
   * YooKassa and Brevo APIs
   * MVC / MVVM
 
-* My tech stack is:
+## Platform stack:
 
 * Android:
 * * Android SDK for Tablets and smarts
