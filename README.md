@@ -67,9 +67,9 @@ It's a part of advanced UX/UI for user interaction
 For example, for some breathing exercises
 
 ## 📊 Profile statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodDamn&theme=dark&count_private=true&include_all_commits=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodDamn&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodDamn&show_icons=true&theme=dark&count_private=true&layout=donut-vertical&card_width=445&langs_count=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodDamn&show_icons=true&theme=dark&count_private=true&layout=donut-vertical&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GoodDamn/GoodDamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
