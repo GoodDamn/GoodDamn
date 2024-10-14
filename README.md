@@ -1,8 +1,8 @@
 # Hi Mobile development 👋
 
-Hi, you dont't know my name yet :)
+[Telegram](https://t.me/goodsingledamn)
 
-I'm 20 years old boy with IT enjoying
+Hi, I'm 20 years old boy with IT enjoying
 
 I'm currenty mobile developer on both popular platforms
 (I think, you know them)
