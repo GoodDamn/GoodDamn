@@ -56,8 +56,6 @@ Now I'm implementing HTTP-Server for responsing to reqeusts with HTTP
 For Android, I use it for advanced user interaction.
 If you draw it, you complete it
 
-It's an extension for my ScriptEngine, but it's under a policy, sorry(
-
 ### [Microphone Breathing](https://github.com/GoodDamn/MicroBreath)
 (Warning: you can damage your microphone, try it on your own risk)
 
