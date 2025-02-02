@@ -18,7 +18,7 @@ I'm currenty mobile developer on both popular platforms
   * Firebase Database, Storage, Auth, Messaging
   * TCP/IP
   * YooKassa and Brevo APIs
-  * MVC / MVVM
+  * Clean Architecture
 
 ## Platform stack:
 
