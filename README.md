@@ -1,6 +1,8 @@
 # Hi Mobile development 👋
 Hi, I'm 22 years old boy with IT enjoying
 
+[Telegram](https://t.me/goodsingledamn)
+
 I'm currenty mobile developer on both popular platforms
 (I think, you know them)
 
